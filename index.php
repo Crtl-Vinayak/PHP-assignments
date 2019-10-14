@@ -27,6 +27,7 @@
   echo '<a href="http://testdemophpweb.xp3.biz/H005/beasties_form2.html">H005/beasties_form2</a><br>';
   echo '<a href="http://testdemophpweb.xp3.biz/H005/loginform.html">H005/loginform</a><br>';
   echo '<a href="http://testdemophpweb.xp3.biz/H005/loginform2.html">H005/loginform2</a><br>';
+  echo '<a href="http://testdemophpweb.xp3.biz/H006/h006_1.php">H006/opdracht1</a><br>';
 ?>
 
   </body>
