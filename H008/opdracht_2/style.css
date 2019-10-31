@@ -1,0 +1,32 @@
+body {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 100px 100px 100px 4fr;
+  text-align: center;
+  font-family: "Arial";
+}
+#monkey-business {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  grid-row: 1/2;
+}
+#monkey_swings {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  grid-row: 4/5;
+}
+div#links {
+  grid-row: 5/6;
+}
+.aap {
+  font-family: 'Bangers', cursive;
+  text-decoration: none;
+  color: #ff8400;
+  line-height: 6.0vh;
+  font-size: 4.5vh;
+  font-weight: bold;
+}
